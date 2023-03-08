@@ -147,3 +147,26 @@ section .girl {
 .login .group a:nth-child(2) {
   text-decoration: underline;
 }
+
+.leaves {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.leaves .set {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.leaves .set div {
+  position: absolute;
+  display: block;
+}
