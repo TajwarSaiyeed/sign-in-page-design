@@ -1,5 +1,5 @@
-<div align="text-center">
-# **Sign In Page**
+<div align="center">
+Sign In Page
 </div>
 
 ![github-readme](girl_pic.png)
