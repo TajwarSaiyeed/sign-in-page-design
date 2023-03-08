@@ -1,10 +1,10 @@
+<div class="center">
 # **Sign In Page**
+</div>
 
 ![github-readme](girl_pic.png)
 
-\*\*
 [Live Link](https://tajwarsaiyeed.github.io/sign-in-page-design)
-\*\*
 
 ```
 sign-in-page
