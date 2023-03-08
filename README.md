@@ -1,4 +1,4 @@
-<div class="center">
+<div class="text-center">
 # **Sign In Page**
 </div>
 
